@@ -9,3 +9,6 @@ https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angul
 # Documentation
 
 I will update documentation here in README.md as the project is going on.
+
+9.10.2019
+Just created Minimus app with Angular CLI and modified app.component.html little bit. Next steps are to add SVG icons and CSS to the app.
